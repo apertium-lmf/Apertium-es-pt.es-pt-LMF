@@ -1,0 +1,12 @@
+Copying and Author information
+
+Resource name: Spanish-Portuguese LMF Apertium Bilingual dictionary
+Resource identifier: http://hdl.handle.net/10230/17101
+Licence: GPL
+
+Authors:
+
+() Universitat d'Alacant. Grup Transducens
+
+() Universitat Pompeu Fabra. Institut Universitari de Lingüística Aplicada (IULA)
+
